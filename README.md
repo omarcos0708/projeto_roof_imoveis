@@ -1,6 +1,6 @@
 # projeto_roof_imoveis
 
-Lembre-se de abrir o notebook(colab para vizualizar graficos e imagens)
+Lembre-se de abrir o notebook(colab) para vizualizar graficos e imagens
 
 contato:
 e-mail: cacocesar2020@gmail.com
